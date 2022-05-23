@@ -1,0 +1,96 @@
+{
+  "Big Toxic Chungus Smack That 420": [
+    {
+      "Frontline": "Csongli",
+      "Damage": "lack0",
+      "Support": "Kiruá",
+      "Flex1": "Physicx1",
+      "Flex2": "Gyurí"
+    }
+  ],
+  "Circus of The Damned": [
+    {
+      "Frontline": "Vanitaes",
+      "Damage": "tesnea",
+      "Support": "TuhaPest",
+      "Flex1": "MexTer131",
+      "Flex2": "TheSGManiac"
+    }
+  ],
+  "Epsilon": [
+    {
+      "Frontline": "IPlayGuitar",
+      "Damage": "loneybee",
+      "Support": "LadyCarnival",
+      "Flex1": "apitta",
+      "Flex2": "Salazar12"
+    }
+  ],
+  "Hungarian Emperors": [
+    {
+      "Frontline": "BlueJones123",
+      "Damage": "Meliodas",
+      "Support": "SotoMoto0",
+      "Flex1": "JustFinnii",
+      "Flex2": "TheLastPillow"
+    }
+  ],
+  "Hungarian Pros": [
+    {
+      "Frontline": "iPáSSii",
+      "Damage": "Truthahn",
+      "Support": "matre101",
+      "Flex1": "HFHMRBUBI",
+      "Flex2": "z0rn"
+    }
+  ],
+  "PalaCsinta": [
+    {
+      "Frontline": "Pompeius96",
+      "Damage": "Dömi",
+      "Support": "Gera5",
+      "Flex1": "addathehamster",
+      "Flex2": "YouWasTaken"
+    }
+  ],
+  "The Remnants": [
+    {
+      "Frontline": "Márton72",
+      "Damage": "jeszkar",
+      "Support": "mikeyyLegit",
+      "Flex1": "Szalka",
+      "Flex2": "Draky346"
+    }
+  ],
+  "Zámbó Jimmy Hivatalos Emlékcsapat": [
+    {
+      "Frontline": "Richikee",
+      "Damage": "BeresBarbara",
+      "Support": "rexximan",
+      "Flex1": "goataxy",
+      "Flex2": "FEX20"
+    }
+  ],
+  "TerraFox": [
+    {
+      "Frontline": "Hyuugakun",
+      "Damage": "klogin15",
+      "Support": "Sn0wF0xHun",
+      "Flex1": "FEROX90",
+      "Flex2": "Bayeros"
+    }
+  ],
+  "Key": [
+    {
+      "Big Toxic Chungus Smack That 420": "Physicx1",
+      "Circus of The Damned": "Vanitaes",
+      "Epsilon": "Salazar12",
+      "Hungarian Emperors": "Meliodas",
+      "Hungarian Pros": "Truthahn",
+      "PalaCsinta": "Gera5",
+      "TerraFox": "Hyuugakun",
+      "The Remnants": "jeszkar",
+      "Zámbó Jimmy Hivatalos Emlékcsapat": "FEX20"
+    }
+  ]
+}

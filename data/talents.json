@@ -1,0 +1,350 @@
+{
+    "Androxus": [
+        {
+            "Cursed Revolver": "A revolver átalakul automatává, ami 600 sebzést okoz minden 0,5 másodpercben.",
+            "Godslayer": "A reversal képességed minden esetben minimum 800 sebzést okoz.",
+            "Defiant Fist": "A sikeres találatok a revolverrel 15%-al növelik a Defiance képesség sebzését."
+        }
+    ],
+    "Ash": [
+        {
+            "Battering Ram": "A Shoulder Bash használata közben 75%-kal csökkenti az elszenvedett sebzést.",
+            "Slug Shot": "A fegyvered lövedékei 50%-kal gyorsabban haladnak 100%-kal messzebbre, de nem robbannak fel.",
+            "Fortress Breaker": "A pajzsod maximális életét 2000-rel megnöveli, a mérete pedig 50%-kal lesz nagyobb, valamint csökkenti a mozgási sebességét 80%-kal."
+        }
+    ],
+    "Atlas": [
+        {
+            "Unstable Fissure": "A Second Chance-t aktiválva Atlas hátrahagy egy instabil időrést, amely 3 másodperc után felrobban 900 sebzést okozva ellenségeknek.",
+            "Temporal Divide": "Nagymértékkel megnövekszik a Stasis Field mérete, de a töltési ideje is megnövekszik 50%-kal.",
+            "Deja vu": "Setback egy ívelt lövedékké válik, amely képes több ellenséget is visszapörgetni az időben."
+        }
+    ],
+    "Barik": [
+        {
+            "Architectonics": "A tornyaid 20%-al többet sebeznek, és csökken a cooldownjuk 3 másodperccel.",
+            "Tinkerin": "Módosítja a Blunderbuss-t, mostantól egyetlen nagy golyót lő ki, ami 480-at sebez.",
+            "Fortify": "Megnő a Barricade életereje 2000 életponttal, és csökken a cooldownja 3 másodperccel."
+        }
+    ],
+    "Bomb King": [
+        {
+            "Chain Reaction": "Egynél több Sticky Bombal eltalált ellenfelek után a Detonate-tal történő robbantás 30% károsodással halmozódik akár 150%-ig is.",
+            "Royal Subjects": "Megnő a Sticky Bombok robbanási sugara 20%-al.",
+            "Accelerant": "40%-al csökkenti a Grumpy Bomb felrobbanásához szükséges időt."
+        }
+    ],
+    "Buck": [
+        {
+            "Ensnare": "Növeli a Net Shottal lassított célpontra mért sebzést 20%-al és növeli időtartalmát 0,5 másodpercel. A növelt sebzés legalább 2 másodpercig tart.",
+            "Bulk Up": "A Recovery használata azonnal visszagyógyít 400 életpontot és 5 másodpercre megnöveli a maximális életerőt 300 életponttal.",
+            "Bounce House": "A Heroic Leap 600 sebzést és fellökést okoz az ellenségeknek a landolási hely körüli 20 egységben."
+        }
+    ],
+    "Cassie": [
+        {
+            "Exaction": "A Dodge Roll használata után 8 másodpercig, a következő lövésed sebzése 30%-kal nagyobb.",
+            "Impulse": "A Blast Shot képesség sebzése 150-nel nő, és a Cooldown-ja 2 másodperccel csökken.",
+            "Big Game": "Ha eltalálsz egy ellenséget a Disengage képességgel, a következő 4 mp-ben a fegyvered sebzése megnő az ellenfél maximális életének 8%-ával."
+        }
+    ],
+    "Corvus": [
+        {
+            "Dark Gifts": "A Kijelölt társad 15% Crowd Control csökkentést, 10% Cooldown-csökkentést, 15% újratöltési idő csökkentést kapnak, valamint másodpercenként 50-nel gyógyulnak.",
+            "Stunning Visage": "A Projectionnal eltalálva az ellenségeket, 1mp Stunt kapnak és a Corvus és a Projection között lévő ellenség 600 sebzést kap, ha használod a Teleportot.",
+            "Spreading Influence": "Csökkenti a gyógyítást a Megjelölt társakon 15%-kal, de egyszerre két társadon lehet Jelölés."
+        }
+    ],
+    "Dredge": [
+        {
+            "Scuttle": "Az újratöltési lövedék felrobban a landolástól mérve 20 egységnyi területen belül.",
+            "Hurl": "A Harpoon nem kerül töltésre, viszont tovább nem lassít.",
+            "Abyss Spike": "A Harpoon belecsapódik a földbe, majd felrobban 35 egységen belül 1000 sebzést, ha egy ellenség 20 egységen belülre kerül tőle."
+        }
+    ],
+    "Drogoz": [
+        {
+            "Combustible": "A Fire Spit további 300-at sebez 2 másodperc alatt és Knockback effektet alkalmaz.",
+            "Fusillade": "A Rocket Launcherrel, valamint a Salvoval 25%-al többet sebzel, ha közvetlen eltalálod őket.",
+            "W.Y.R.M. Jets": "Megnöveli 25%-kal a Booster hatékonyságát és sebességét repülés közben."
+        }
+    ],
+    "Evie": [
+        {
+            "Over the Moon": "3 mp-ig megnöveli a sebzésed 20%-kal, miután a Soart használtad.",
+            "Snow Globe": "Az Ice Storm sebzése 100%-kal megnő, az Ultimate már 50%-nál is használható, de csak 3mp-ig tart.",
+            "Wormhole": "A Blink használatától számított elkövetkező 4mp-ben újra használható, így visszatérve az eredeti helyére."
+        }
+    ],
+    "Fernando": [
+        {
+            "Aegis": "A Shielded végtelen időtartamú és a Cooldownja csökken 4 másodperccel.",
+            "Scorch": "Növeli a Fireball sebzését 30%-al, és további 20%-al több kárt okoz mindegyik további találatoknál.",
+            "Formidable": "Ha az életerőd 40% vagy az alá csökken, visszagyógyulod az életerőd 55%-át 3 másodperc alatt. Ez csak 45 másodpercenként csak 1-szer történik meg."
+        }
+    ],
+    "Furia": [
+        {
+            "Cherish": "Kindle Soul további 15% életerőt gyógyít a csapattárs hiányzó életereje alapján és 300%-kal nagyobb távolságon használható a képesség.",
+            "Exterminate": "Amikor Pyre Strike eltalál egy ellenséges hőst, a sugár megáll, amíg a képesség le nem jár. A sugár alatti ellenfeleknek 75%-kal több sebzést okoz, mint általában.",
+            "Solar Blessing": "Amikor a Pyre Strike eltalál egy szövetséges hőst, a sugár megáll, és gyógyítani fog 150 életerőt bármely csapattársnak minden 0,05 másodpercben, aki hozzáér a sugárhoz. Továbbá a Pyre Strike mozgási sebességét lecsökkenti 30%-kal."
+        }
+    ],
+    "Grohk": [
+        {
+            "Totemic Ward": "Kapsz egy 3. totemet is és megnő a totemek gyógyítási hatótávolsága 30%-al.",
+            "Spirit's Domain": "A szövetségesekre nyomott villám a Lightning Staff-ből gyógyítja őket 700-al másodpercenként.",
+            "Maelstrom": "A Lightning Staff lövései 0,5 másodperccel csökkentik a Shock Pulse cooldownját és 4-el többet ugrál az ellenségek/ ellenséges tárgyak között."
+        }
+    ],
+    "Grover": [
+        {
+            "Rampant Blooming": "Azok a hősök akiket gyógyítottál a Blossommal további 300 gyógyulást kapnak 3 másodperc alatt.",
+            "Ferocity": "60%-al megnöveli a maximális károkat távolságonként.",
+            "Deep Roots": "A Crippling Throw rootolni fogja az ellenséget és átpattan a közelben lévő ellenfelekre akár 3 alkalommal is."
+        }
+    ],
+    "Imani": [
+        {
+            "Splitting Ice": "A Frost Bolt átpattan egy 30 egységen belül egy másik ellenségre 350 sebzést okozva.",
+            "Pyromania": "Minden Pyre Ball robbanósebzést okoz 20 egységen belül.",
+            "Mana Rift": "1 másodperc egy helyben állás után megnyílik egy Manarés, amely Manát generál 1 másodpercenként. Elhagyva a rést az bezárul."
+        }
+    ],
+    "Inara": [
+        {
+            "Mother's Grace": "Csökkenti a beérkezdő sebzést további 10%-kal és tömegirányítás-immunitást biztosít az Earthen Guard ideje alatt.",
+            "Tremors": "Az Impass nevű képesség kétszer használható, de nem tudod a falakat elpusztítatni.",
+            "Treacherous Ground": "A Warder’s Field mérete 50%-kal nagyobb és megbénítja a benne álló ellenfeleket."
+        }
+    ],
+    "Io": [
+        {
+            "Life Link": "Luna gyógyítja Io-t és a körülötte álló csapattársakat 200 életponttal másodpercenként.",
+            "Goddess' Blessing": "A Moonlight által gyógyított csapattársak 15%-kal csökkentett bejövő sebzést szenvednek el.",
+            "Sacrifice": "Ha Io 200 életerő alá esik és Luna aktív, Io helyet cserél Lunával, mialatt visszakapja életereje 50%-át és Luna hal meg helyette."
+        }
+    ],
+    "Jenos": [
+        {
+            "Luminary": "Az Astral Mark által megjelölt szövetségesek 15%-al több kárt okoznak a fegyverükkel.",
+            "Binary Star": "A Star Splitter 0,4 másodpercenként 360 sebzést okoz.",
+            "The Power Cosmeum": "Az ellenfelek nem tudnak kijönni a Void Gripből és további 480 sebzést kapnak az időtartam alatt."
+        }
+    ],
+    "Khan": [
+        {
+            "Lian's Shield": "A pajzsod 100% hatékonysággal regenerálódik használat közben is.",
+            "Storm of Bullets": "Növeli a támadási sebességed 40%-al viszont 25%-al kevesebbet sebzel golyónként.",
+            "Vortex Grip": "Akit eltaláltál a Commander’s Grabbel az további 1,2 másodpercig lesz Stunolva."
+        }
+    ],
+    "Kinessa": [
+        {
+            "Steady Aim": "Mikor eltalálsz valakit teljesen feltöltött lövéssel, 7 másodpercig a további teljesen feltöltött lövéseid 30%-al többet sebeznek.",
+            "Reposition": "Azonnal odateleportál a célpontra a Transporterrel.",
+            "Eagle Eye": "A Fejlövések 25%-kal többet sebeznek."
+        }
+    ],
+    "Koga": [
+        {
+            "Adrenaline Junkie": "1 energiát generál minden SMG-vel kiosztott 80 sebzés után.",
+            "Blood Reaper": "A Cyclone Strike alatt 15%-kal megnövelt mozgási sebességet ad, továbbá a sebzését megnöveli minden célpont maximális életerejének a 115%-ára.",
+            "Dragon Fangs": "A Dragon Stance ezennel nem energiát, hanem 200 életerő/másodperc-et használ. Legalább 300 életerő szükséges az aktiválásához és 15 életerőnél automatikusan leáll."
+        }
+    ],
+    "Lex": [
+        {
+            "Discovery": "Megnöveli a Büntetés Célpontja ellen okozott sebzés mértékét 30%-kal.",
+            "Heroism": "A Combat Slide időtartama alatt tömegirányítás-immunitást ad és 90%-kal csökkenti a beérkező sebzés mértékét.",
+            "Death Hastens": "A fegyvered átalakítja úgy, hogy az 680 sebzést okoz 0,7 másodpercenként, viszont csökkenti a maximális tölténytár méretét 6-ra."
+        }
+    ],
+    "Lian": [
+        {
+            "Alacrity": "Csökkenti a Grace töltési idejét 1 másodperccel és hatására a Grace az előtted álló összes ellenséget eltalálja.",
+            "Eminence": " Növeli a Presence által okozott sebzést legfeljebb 50%-kal távolság hatására, és csökkenti a Presence töltési idejét 4 másodperccel.",
+            "Precision": "Egy ellenfelet eltalálva a Heirloom Rifle-lel megnöveli az ellenfélnek okozott sebzést 7%-kal 3 másodpercig, ami négyszer stackel."
+        }
+    ],
+    "Maeve": [
+        {
+            "Cat Burglar": "Megnöveli a Prowl után 5 másodpercen belül kilőtt első pengéid sebzését 30%-kal.",
+            "Street Justice": "A Pounce kivégzi az ellenfeled, amennyiben 35% életerő alatt tartózkodik.",
+            "Rogue's Gambit": "Növeli a Pounce által okozott sebzés mértékét 10%-kal és újratölti a Pounce-t minden kiiktatás után."
+        }
+    ],
+    "Makoa": [
+        {
+            "Pluck": "Miután eltaláltál egy ellenséget a Dredge Anchorel a következő lövésed 75%-al többet fog sebezni, a hatás legfeljebb 4 másodpercig tart.",
+            "Half Shell": "A Shell Shieldet a földre teszed le és 2 másodpercig tovább tart.",
+            "Leviathan": "Megnő a maximális életerőd 500 életpontal, és az Ultimate képesség töltési ideje 15%-al. Az Ultimate képesség aktiválása lenullázza a Dredge Anchor és Shell Spin képességek cooldownjait."
+        }
+    ],
+    "MalDamba": [
+        {
+            "Spirit's Chosen": "A Mending Spirits azonnal gyógyít a célponton extra 250 életpontot.",
+            "Ripened Gourd": "A Gourd nem károsítja az ellenséget, viszont kétszer annyit gyógyít.",
+            "Wekono's Wrath": "A kigyó levedlett bőre gyorsabb és plusz 500-at sebez."
+        }
+    ],
+    "Moji": [
+        {
+            "Snack Attack": "Minden kiiktatás után az ellenfél elejt egy gyógyító csomagot, amelyet felszedve 600 életerőt gyógyít azon, aki felvette. Ezen csomagok láthatóak csapattársaknak, de ellenfeleknek nem, illetve ők nem is tudnak vele kapcsolatba lépni.",
+            "Boom Boom": "A varázsjelet felrobbantva a 15 egységen belül tartózkodó ellenségek is megsebződnek a sebzés 75%-ával.",
+            "Toot": "A Scamper használata gyógyítja a csapattársakat 25 egységen belül 600 életerővel 3 másodperc alatt."
+        }
+    ],
+    "Octavia": [
+        {
+            "Hell or High Water": "Miután földet értél a Commanding Leap-pel, magad alá helyez egy kis gyógyítóterületet, amely gyógyít téged és csapattársaid 600 életerővel 1,5 másodperc alatt.",
+            "Asymmetric Warfare": "A Distortion Field hatására a benne álló ellenségek 125 sebzést szenvednek 0,5 másodpercenként a képesség időtartama alatt, továbbá a benne álló csapattársakat gyógyítja 75 életerővel 0,5 másodpercenként.",
+            "Display of Force": "A Creeping Barrage első fázisa által eltalált ellenfelek Röghöz kötődnek, továbbá a képesség második fázisa további 600 sebzést okoz.",
+
+            "Commander's Cooldown": "Csökkenti az egész csapatod képességeinek töltési idejét 10%-kal.",
+            "Commander's Credit": "Minden 5 kiikatásért a csapatod összes tagja kap 150 kreditet.",
+            "Commander's Shield": "Újraéledés után a csapatod újjáéledt tagja szerez egy 500 életerős pajzsot.",
+            "Commander's Ultimate": "Növeli az egész csapatod ultimate képességének töltési sebességét 15%-kal."
+        }
+    ],
+    "Pip": [
+        {
+            "Mega Potion": "A Healing Potion gyógyításának mértékét 100%-kal megnöveli.",
+            "Catalyst": "Az Explosive Flask-kal eltalált ellenségek 30% bónuszsebzést szenvednek a fegyverlövéseidtől 4 másodpercre.",
+            "Combat Medic": "A Potion Launcher mostantól gyógyítja csapattársaid 750 életerővel, ha eltalálod őket. A fegyverlövéseid ezután nem sebeznek téged."
+        }
+    ],
+    "Raum": [
+        {
+            "Enforcer": "A Juggernaut használata közben 50%-al kevesebb sebzést szenvedsz el.",
+            "Earthsplitter": "Növeli az ultimate képesség töltődését 60%-al.",
+            "Subservience": "A körülötted 40 egységen belül lévő szövetségesek 100 életpontot gyógyulnak, minden egyes lélek után amit begyűjtesz."
+        }
+    ], 
+    "Ruckus": [
+        {
+            "Flux Generator": "Növeli az Emitter által kapott pajzs életerejét 1000-rel.",
+            "Rocket Barrage": "Növeli a Missile Launcher által kilőtt rakéták robbanási területét 66%-kal.",
+            "Aerial Assault": "Az Advance kap még egy töltést és ha egy helyben állsz az aktivációjakor, akkor az felfelé, egyenesen a levegőbe repít."
+        }
+    ],
+    "Seris": [
+        {
+            "Soul Collector": "Minden felrobbantott Soul Orb jelölés megnöveli a maximális életerőd és a fegyvered sebzését 2%-kal, amíg meg nem halsz. Ez legfeljebb 15x történhet meg.",
+            "Mortal Reach": "Megnöveli a Restore Soul gyógyítási távolságát 300%-kal, illetve a gyógyítási sebességét 17%-kal.",
+            "Agony": "A Rend Soul elkábítja azon ellenfeleket, akin 4 jelölés-stack van."
+        }
+    ],
+    "Sha Lin": [
+        {
+            "Desert Silence": "A Crippling Arrow mostantól elnémít ellenségeket bénítás helyett.",
+            "Recurve": "Növeli a Long Bow feltöltési sebességét 25%-kal.",
+            "Sand Trap": "A Cripping Arrow-val kilőtt nyíl mostantól felrobban 20 egységen belül további 300 sebzést okozva és bénítva az eltalált ellenfeleket."
+        }
+    ],
+    "Skye": [
+        {
+            "Debilitate": "Megnöveli a mérgezett nyilak sebességét 100%-al, és az általa okozott sebzés mértékét 25%-kal.",
+            "Smoke and Dagger": "A Smoke Screen képességet erősítő kártyák a felszerelésedben már a társaidra is hatnak, akik a Smoke Screen-be lépnek. Ezentúl a társakat 150 életerővel gyógyítja minden másodpercben amíg a Smoke Screen vannak.",
+            "Preparation": "Ölések vagy kiiktatások visszaállítják a képességeid újratöltési idejét és 500 életerőt gyógyítanak rajtad."
+        }
+    ],
+    "Strix": [
+        {
+            "Nocturnal": "Csökkenti a láthatatlánná váláshoz szükséges energia felhasználást 50%-al.",
+            "Unauthorized Use": "A Flare 250%-os sebzést okoz, megnövelve a lövedék sebességét és 10 másodperccel csökkenti a cooldownját, viszont nem fedi fel az ellenségeket.",
+            "Crack Shot": "A Talon Rifle további 50 sebzést okoz 3 másodperc alatt azokra akiket eltaláltál vele. Akár háromszor is stackelődhet de innentől kezdve nem tudsz fejlővéseket adni."
+        }
+    ],
+    "Talus": [
+        {
+            "Inner Strength": "Újratölti az Overcharge és a Blitz Upper képességet a Rune of Travel teleportációja után.",
+            "Faustian Bargain": "A Rune of Travel nem teleportál automatikusan 10 másodperc után a rúnához, és ha az nincs elhasználva, a képesség újratölt.",
+            "Nothing Personal": "Növeli az ultimate töltést 15%-kal és felfed minden olyan ellenséget, aki 65% életerő alatt tartózkodik."
+        }
+    ],
+    "Terminus": [
+        {
+            "Undying": "40% életerő vagy az alatt 20%-al csökken az elszenvedett sebzés.",
+            "Crush": "A Shatterfall képesség az eltalált ellenségeket 1 másodpercig kábítani fogja, viszont nem lassít.",
+            "Decimation": "Minden egyes Calamity Blast további 100 sebzést okoz."
+        }
+    ],
+    "Tiberius": [
+        {
+            "Predatory Instincts": "A pengéi plusz két alkalommal képesek pattogni, eltűnés előtt.",
+            "Tigron's Fury": "A Heavy Blade képessége felrobban a visszahívás helyett, azonban mikor a kardját eldobja, kevesebb sebzést okoz.",
+            "Vicious Assault": "Crouching Tigron 700 sebzést okoz 20 egységen belűl leérkezéskor."
+        }
+    ],
+    "Torvald": [
+        {
+            "Thanks Grandpa": "Megnöveli a Protection életerejét 500-al.",
+            "Direct Current": "Megduplázza azt a tartományt, amelyben használható a Nullify.",
+            "Field Study": "Az a szövetséges akire rá raktad a Protectiont, 10%-al többet sebez."
+        }
+    ],
+    "Tyra": [
+        {
+            "Mercy Kill": "A Nade Launcher-nek 3 töltést ad.",
+            "Hunting Party": "A Hunter’s Mark-nak 2 töltést ad, és minden pozitív hatását megkapja az egész csapat.",
+            "Burn Monster!": "A Fire Bomb 30%-kal megnövelt sebzést okoz, bénító hatást mér minden benne álló ellenfélre és ezen ellenfelek 60%-kal kevesebb bejövő gyógyítást kapnak."
+        }
+    ],
+    "Vatu": [
+        {
+            "Omnipresence": "Az Ambush képességed kap még egy aktivációs lehetőséget, továbbá segítségével csapattársakhoz is lehet ugrani.",
+            "Unerring": "Növeli a Shadow Bombs képességed robbanási méretét 5 egységgel, továbbá a lövedékek hőkövetővé vállnak.",
+            "Enveloping Shadow": "Csökkenti az alap képességeid töltési idejét 15%-kal, ha eltalálsz valakit egy Kunai-jal. Ez minden dobáskor egyszer történhet meg."
+        }
+    ],
+    "Viktor": [
+        {
+            "Cardio": "Gyógyít 300 életerőt minden másodpercben a Hustle képesség alatt.",
+            "Burst Mode": "Lecseréli a fegyvered egy 3 lövéses sorozatlövést lövő fegyverre, amely növeli annak effektív távolságát és három 200 sebzést okozó lövedéket lő ki 0,4 másodpercenként.",
+            "Shrapnel": "Növeli a Frag Grenade robbanási sugarát 40%-kal."
+        }
+    ],
+    "Vivian": [
+        {
+            "Suspect Everyone": "A Deflector Shield életerejét 350-nel növeli és a töltési idejét a felére csökkenti, ha azt elpusztítja egy ellenfél.",
+            "Booby Trap": "A Sensor Drone felrobban 600 sebzést és hátralökést okozva, amennyiben egy ellenség a drónhoz képest 20 egységen belülre kerül.",
+            "Opportunity in Chaos": "Miután Vivian 2 másodpercig folyamatosan lőtt, 10%-kal megnövelt sebzést fog okozni a további lövés során."
+        }
+    ],
+    "Vora": [
+        {
+            "Unyielding Pressure": "A Dark Siphon képességed az ellenség maximum életerejének további 10%-át sebzi 1,5 másodpercig.",
+            "Relentless Presence": "A Tendril képességedet 2x tudod használni.",
+            "Deafening Silence": "Az Obliteration képességed ezentúl Silence effektet mér az ellenségekre 1,5 másodpercig."
+        }
+    ],
+    "Willo": [
+        {
+            "Nightshade": "A Dead Zone sebzését megnöveli 500-ra.",
+            "Blastflower": "Eltalálva egy ellenséget a fegyverlövéseiddel megnöveli az általad rájuk mért sebzést 80-nal 3 másodpercre, amely stack-el háromszor.",
+            "Scorn": "Megnöveli a Seedlingek okozta sebzést 750 életpontra és lecsökkenti a robbanáshoz szükséges időt 25%-kal."
+        }
+    ],
+    "Yagorath": [
+        {
+            "Corrosive Acid": "Megerősíti a sav-támadásaid. Megnöveli a Caustic Spray által okozott sebzést 42 életerőre, a savtócsákét pedig 40-re, továbbá a savtócsákban álló csapattársak 20%-kos mozgási sebesség növekedést kapnak.",
+            "Sight Begets Strength": "A Primal Vision területén belül tartózkodó csapattársak egy stackelhető 100-életerőnyi pajzsot kapnak, továbbá 15% megnövelt mozgási sebességet minden pulzálás után.",
+            "Unnatural Persistence": "Gyógyít 25 életerőt 0,25 másodpercenként, ha a ponton vagy a kocsin állsz, és további 1 másodpercig, ha elhagyod azt. Ez a hatás egyre erősödik, minél tovább tartod azt, azaz maximálisan 65 életerő gyógyítás 0,25 másodpercentként."
+        }
+    ],
+    "Ying": [
+        {
+            "Focusing Lens": "További 200 sebzést okoz az Illusory Mirror-od, amennyiben mind az 5 lövedéket eltaláltad.",
+            "Life Exchange": "A Shatter azonnal gyógyítja a becélzott csapattársad életerejét 700-zal, de a töltési ideje 1 másodperccel megnövelt és nem robbantja fel az illúzióid.",
+            "Resonance": "Ha egy illúziód lejár vagy meghal, akkor egy Shatter-szerű robbanás keletkezik 500 sebzést okozva a körülötte levő ellenségeknek."
+        }
+    ],
+    "Zhin": [
+        {
+            "Guillotine": "Spite az ellenfél maximális életeréjének 25%-át sebzi csapásonként. Továbbá megnöveli az ultimate képességed töltésének sebességét 15%-kal.",
+            "Yomi": "Az Inferno Blade harmadik támadása 150 extra sebzést okoz.",
+            "Smolder": "Gyógyít a maximális életerőt 15%-át másodpercenként a Billow alatt."
+        }
+    ]
+}

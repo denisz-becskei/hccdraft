@@ -1,0 +1,102 @@
+{
+"player1":[{
+    "name": "\\u04123L1AR",
+    "champion": "Koga",
+    "kda": "10/9/10",
+    "damage": "83407",
+    "damage_taken": "49660",
+    "healing": "0",
+    "shielding": "0",
+    "ot": "26",
+    "talent": "Adrenaline Junkie"
+}],"player2":[{
+    "name": "",
+    "champion": "Kinessa",
+    "kda": "6/7/10",
+    "damage": "112689",
+    "damage_taken": "23628",
+    "healing": "0",
+    "shielding": "0",
+    "ot": "17",
+    "talent": "Reposition"
+}],"player3":[{
+    "name": "GravDan",
+    "champion": "Jenos",
+    "kda": "1/7/14",
+    "damage": "18538",
+    "damage_taken": "25312",
+    "healing": "89650",
+    "shielding": "0",
+    "ot": "10",
+    "talent": "Luminary"
+}],"player4":[{
+    "name": "sT0n3r",
+    "champion": "Ash",
+    "kda": "2/9/8",
+    "damage": "53040",
+    "damage_taken": "81236",
+    "healing": "0",
+    "shielding": "55183",
+    "ot": "57",
+    "talent": "Fortress Breaker"
+}],"player5":[{
+    "name": "An\\u00f3nym\\u00f3s",
+    "champion": "Inara",
+    "kda": "4/11/7",
+    "damage": "31537",
+    "damage_taken": "106640",
+    "healing": "0",
+    "shielding": "8163",
+    "ot": "96",
+    "talent": "Treacherous Ground"
+}],"player6":[{
+    "name": "TheSGManiac",
+    "champion": "Androxus",
+    "kda": "21/5/12",
+    "damage": "75366",
+    "damage_taken": "48741",
+    "healing": "0",
+    "shielding": "0",
+    "ot": "25",
+    "talent": "Cursed Revolver"
+}],"player7":[{
+    "name": "Fezzly",
+    "champion": "Barik",
+    "kda": "6/3/21",
+    "damage": "54766",
+    "damage_taken": "78204",
+    "healing": "0",
+    "shielding": "66184",
+    "ot": "272",
+    "talent": "Fortify"
+}],"player8":[{
+    "name": "MexTer131",
+    "champion": "Grohk",
+    "kda": "5/5/26",
+    "damage": "80996",
+    "damage_taken": "57302",
+    "healing": "58534",
+    "shielding": "0",
+    "ot": "132",
+    "talent": "Maelstrom"
+}],"player9":[{
+    "name": "hako123",
+    "champion": "Furia",
+    "kda": "3/4/22",
+    "damage": "31103",
+    "damage_taken": "34938",
+    "healing": "77105",
+    "shielding": "6706",
+    "ot": "65",
+    "talent": "Cherish"
+}],"player10":[{
+    "name": "javiergm03",
+    "champion": "Makoa",
+    "kda": "8/6/11",
+    "damage": "44245",
+    "damage_taken": "80026",
+    "healing": "0",
+    "shielding": "25613",
+    "ot": "89",
+    "talent": "Pluck"
+}]}
